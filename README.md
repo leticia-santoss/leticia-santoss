@@ -1,7 +1,12 @@
 ### Hi there 👋
-
+Sou a Leticia, mas pode me chamar de Lê.
 <!--
-**leticia-santoss/leticia-santoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leticia-santoss/leticia-santoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+
+Atuo como Tech  recruiter e  me apaixonei por Java.
+
+Estou iniciando meus estudos n a linguagem Java, utilizando a IDE Eclipse (se tiver dicas, já agradeço e sim,quero!)
+
 
 Here are some ideas to get you started:
 
